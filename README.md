@@ -1,4 +1,4 @@
-# Wgel THM CTF Walkthrough
+# Wgel CTF Walkthrough
 
 ## First Step: Reconnaissance
 
